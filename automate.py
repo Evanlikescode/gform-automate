@@ -3,8 +3,7 @@ from bs4 import BeautifulSoup
 
 ##########################
 'patent : Evan Haryo'
-'version : 1.0',
-
+'version : 1.0'
 ##########################
 
 print('#####################################')
