@@ -4,7 +4,6 @@ from bs4 import BeautifulSoup
 ##########################
 'patent : Evan Haryo'
 'version : 1.0'
-'copyright : 2021 Evan Haryo'
 
 ##########################
 
